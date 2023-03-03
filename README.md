@@ -7,6 +7,7 @@
 
   
   ![git top1](	https://github-readme-stats.vercel.app/api?username=RafaelLopesDoNascimento&theme=blue-green)
+  
 ![git top2](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelLopesDoNascimento&theme=blue-green)
 
 
