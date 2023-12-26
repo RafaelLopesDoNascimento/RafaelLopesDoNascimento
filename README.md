@@ -14,7 +14,7 @@
 
 
 
-### Minhas tecnológicas 
+### Minhas tecnológias 
 
 <hr/>
 
